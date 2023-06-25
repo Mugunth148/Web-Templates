@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+h2 {
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 0%;
+}
+.gradient{
+border-radius: 30px;
+background:rgb(255,31,227);
+background: linear-gradient(90deg, rgba(255,31,227,1) 0%, rgba(23,250,247,1) 47%, rgba(49,100,250,1) 100%);
+}
+
+.welcome {
+    color: lightgray;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    font-size: 100px;
+    text-align: center;
+}
