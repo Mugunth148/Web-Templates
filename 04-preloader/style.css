@@ -1,0 +1,23 @@
+.loader {
+	background: none repeat scroll 0 0 #fff
+	bottom: 0
+	right: 0
+	left: 0
+	top: 0
+	height: 100%
+	width: 100%
+	position: fixed
+	z-index: 9999
+}
+	.loader-inner
+    {
+		position: absolute
+	# replace your gif below
+		background: #fff url(../img/preloader.gif) center center no-repeat 
+		background-size: cover
+		height: 60px
+		width: 60px
+		margin: -30px 0 0 -30px
+		left: 50%
+		top: 50%
+}
