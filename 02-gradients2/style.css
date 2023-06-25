@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+h2 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 0%;
+}
+.gradient{
+border-radius: 30px;
+background: rgb(255,31,227);
+background: linear-gradient(328deg, rgba(255,31,227,1) 12%, rgba(244,255,57,1) 47%, rgba(65,49,250,1) 94%);
+}
+
+.welcome {
+    color: white;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.content {
+    margin-left: 30px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    text-align: center;
+    max-width: 550px;
+    padding: 20px;
+    border-radius: 20px;
+}
