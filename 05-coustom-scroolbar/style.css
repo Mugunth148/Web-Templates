@@ -1,0 +1,45 @@
+body {
+  margin: 20px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container h1 {
+  font-size: 5rem;
+  text-align: center;
+  color: #333;
+}
+
+.container p {
+  font-size: 2rem;
+  text-align: center;
+  padding: 20px;
+  color: #333;
+}
+
+
+/* scroll bar  */
+
+body::-webkit-scrollbar {
+  width: 0.75rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #1e1e24;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #6649b8;
+  border-radius: 1rem;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: #e93ad1;
+}
+```
+```
