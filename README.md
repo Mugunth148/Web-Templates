@@ -2,16 +2,15 @@
 
 This repository contains a collection of web templates created and continuously maintained by Mugunth148. Whether you're a seasoned developer looking for inspiration or just starting your web development journey, these templates can serve as a solid foundation for your projects.
 
-Table of Contents
+********************Table of Contents
 Overview
 Getting Started
 Usage
 Contributing
 License
-Overview
 Each web template in this repository is carefully crafted to showcase modern design principles, optimal performance, and best practices in web development. Whether you're building a portfolio, an e-commerce site, a blog, or any other type of web application, you'll find templates tailored to your needs.
 
-Getting Started
+***********************Getting Started
 To implement these web templates in your own projects, follow these simple steps:
 
 Clone the Repository: Start by cloning this repository to your local machine using the following command:
@@ -26,7 +25,7 @@ Assets: Replace the placeholder images, icons, and other assets with your own.
 
 Testing: Before deploying, thoroughly test the template on various devices and browsers to ensure responsive design and optimal user experience.
 
-#Usage
+************************#Usage
 Here's how you can use the template as a starting point for your web project:
 
 HTML Structure: Use the template's HTML structure as a foundation for your pages. Replace the sample content with your actual content.
@@ -39,10 +38,10 @@ Responsive Design: Ensure that the template maintains responsiveness across diff
 
 Optimization: Optimize images, minify CSS and JavaScript files, and follow web performance best practices to improve loading times.
 
-#Contributing
+************************#Contributing
 Your contributions to this repository are highly appreciated! If you've created a new web template or made improvements to an existing one, feel free to submit a pull request. Make sure to follow the contribution guidelines for a smooth collaboration process.
 
-#License
+*************************#License
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the templates as needed.
 
 Happy coding and building amazing web projects! 🚀🎉
